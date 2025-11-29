@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+Pentest_Report.html
+Scan_Report_*.html
+.vscode/
+.idea/
